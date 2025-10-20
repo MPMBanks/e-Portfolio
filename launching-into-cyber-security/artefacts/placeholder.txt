@@ -1,0 +1,1 @@
+This folder is for uploading artefact files like PDFs, images, etc.
